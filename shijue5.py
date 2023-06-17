@@ -100,4 +100,3 @@ def detect_faces_and_recognize(filename):
 
 filename = "3.png"  
 detect_faces_and_recognize(filename)
-
